@@ -2,8 +2,8 @@
 
 You can find me on...
 
-<a href="https://www.linkedin.com/in/thulio-pereira/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a> LinkedIn   |
-<a href="https://www.instagram.com/stu.pereira/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" height="25" /></a> Instagram   |
+<a href="https://www.linkedin.com/in/thulio-pereira/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>   |
+<a href="https://www.instagram.com/stu.pereira/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" /></a> Instagram   |
 <a href="tulio_1996@yahoo.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yahoo%21_Mail_icon_%282013-2019%29.png/640px-Yahoo%21_Mail_icon_%282013-2019%29.png" height="25" /></a> tulio_1996@yahoo.com
 
 Technologies I Knew
