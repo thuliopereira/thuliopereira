@@ -40,6 +40,11 @@
 
 Here are some ideas to get you started:
 
+LOGOS DAS TECHS: https://github.com/Ileriayo/markdown-badges
+PERFUMARIAS PARA O PERFIL: https://github.com/anuraghazra/github-readme-stats
+TUTORIAL DO PERFIL: https://dev.to/github/how-to-create-a-github-profile-readme-jha
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
