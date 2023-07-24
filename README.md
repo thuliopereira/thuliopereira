@@ -1,5 +1,8 @@
 ### EN: Greetings, my name is Thulio and I am a Information Technology student from São Paulo, Brazil. I'm currently studying with a focus on the front end, mainly in Javascript and React. I'm always looking for new challenges and technologies to improve myself. I am still looking for knowledge and opportunities to grow in this market
 
+You can find me on...
+Linkedin Badge Instagram Badge Gmail Badge
+
 
 <!--
 **thuliopereira/thuliopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
