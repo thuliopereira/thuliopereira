@@ -26,6 +26,8 @@ Technologies I Knew
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuliopereira&show_icons=true&theme=radical)
+
 
 
 
