@@ -7,7 +7,8 @@ You can find me on...
 <a href="tulio_1996@yahoo.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yahoo%21_Mail_icon_%282013-2019%29.png/640px-Yahoo%21_Mail_icon_%282013-2019%29.png" height="25" /></a> tulio_1996@yahoo.com
 
 Technologies I Knew
-![LinkedInkkkkkkkkkkk](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+
 
 
 
