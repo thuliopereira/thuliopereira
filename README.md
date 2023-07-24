@@ -3,6 +3,8 @@
 You can find me on...
 
 <a href="https://www.linkedin.com/in/thulio-pereira/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Linkedin_Shiny_Icon.svg/640px-Linkedin_Shiny_Icon.svg.png" height="25" /></a> LinkedIn
+<a href="https://www.instagram.com/stu.pereira/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" height="25" /></a> Instagram
+
 
 
 <!--
